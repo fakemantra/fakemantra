@@ -85,10 +85,10 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 | | Course | Status |
 |:---:|:---|:---:|
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
+| ◈ | Japanese | 🔄 In Progress |
+| ◈ | Python | 🔄 In Progress |
+| ◈ | Spanish | ✅ Complete |
+| ◈ |English | ✅ Complete |
 
 ---
 
