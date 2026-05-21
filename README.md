@@ -35,7 +35,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 
 ◈  Class     →  Newbie Developer
-◈  Origin    →  Brazil 🇧🇷
+◈  Origin    →  Mexico 🇲🇽
 ◈  Covenant  →  Open Source
 ◈  Build     →  INT / DEX
 ◈  Status    →  Hunter. Refuses to go hollow.
