@@ -22,7 +22,7 @@
 
 **Newbie Developer**
 
-> *"Before anything else, I am loyal to the Blood
+> *"Before anything else, I am loyal to the Blood,
 Betrayal not an option, I'd rather eat a gun."*
 
 Currently deepening my studies in **Python**,applying this knowledge to real personal projects.
