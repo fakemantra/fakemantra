@@ -29,7 +29,7 @@ Currently deepening my studies in **Python**,applying this knowledge to real per
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/charpng.jpg" alt="character"/>
+<img align="right" width="240px" src="https://i.pinimg.com/736x/7d/56/83/7d5683b8e6cf38ef45f96f98c02b0c81.jpg" alt="character"/>
 
 <br clear="right"/>
 
